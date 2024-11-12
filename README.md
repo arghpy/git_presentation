@@ -11,4 +11,4 @@ pdflatex presentation.tex
 ```
 
 You need to compile it twice in order for the ToC (Table of Contents)
-to be displayed in the generated pdf file.
+to be displayed in the generated PDF file.
